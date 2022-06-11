@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahdikhadimi
 - 👀 I’m interested in php and laravel
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently working on a laravel project
 - 💞️ I’m looking to collaborate on laravel project
 - - 📫 How to reach me ...
 
