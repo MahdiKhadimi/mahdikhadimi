@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahdikhadimi
 - 👀 I’m interested in laravel and react.js 
 - 🌱 Currenlty I am working as Full Stack Developer 
-- 💞️ I’m looking to collaborate on full stack project
+- 💞️ I’m looking to collaborate on full stack projects
 
 
 <!---
